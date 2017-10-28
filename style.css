@@ -1,0 +1,593 @@
+/* **************************************************************************************/
+/*   GENERAL */
+/*    ************************************************************************************* */
+.body{
+    background-color: white;
+    color: #1b4a67;
+    font-family: 'Allerta', 'Droid Sans';
+}
+
+p{
+    font-family: 'Allerta';
+    font-size: 14px;
+}
+
+
+#all-content{
+    font-family: 'Allerta';
+    margin-top: 111px;
+}
+
+h2, h3{
+    font-family: 'Allerta';
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+/* NAVUGATION */
+.navig{
+    font-family: 'Allerta';
+    padding: 0px 30px 20px 30px;
+    font-size: 14px;
+    background-color: white;
+    text-transform: uppercase;
+}
+
+
+#navcon{
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+.navbar.navbar-default{
+    margin-bottom: 0px;
+    background-color: white;
+
+} 
+
+.nav.navbar-nav{
+    padding-top: 17px;
+}
+
+.navbar-nav>li {
+    padding-right: 10px;
+}
+
+.nav>li>a{
+    margin-top: 20px;
+    padding: 7px 7px;
+    color: #504944;
+}
+
+#logoNavBar{
+    padding-top: 20px;
+    padding-right: 45px;
+    max-width: 117px;
+    height: 91px;
+}
+
+.main-logo{
+    display: block;
+    float: left;
+    padding-right: 10px;
+}
+
+.navig ul.nav.nav-pills{
+    padding-top: 32px;
+}
+
+.dropdown-menu>li>a{
+    color: #504944;
+}
+
+.soc-resp{
+    float: right;
+}
+
+.social-net i{
+    font-size: 20px;
+    padding-top:0px;
+}
+
+nav .container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.navbar-toggle {
+    margin-top: 57px;
+    float: left;
+}
+
+.nav-tabs {
+    border-bottom: none;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+    color: #337ab7;
+    border-bottom-style: solid;
+    background-color: white;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    background-color: white;
+}
+
+#whoWeAreButton:hover{
+    color: #337ab7;
+    border-bottom-style: solid;
+    background-color: white;
+}
+
+#articleNewsButton:hover{
+    color: #337ab7;
+    border-bottom-style: solid;
+    background-color: white;
+}
+
+
+.dropdown-menu>li>a:hover{
+    color: #337ab7;
+    background-color: white;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .dropdown-menu>li>a:focus{
+    color: #337ab7;
+    border-bottom-style: solid;
+}
+
+/* END NAVIGATION */
+
+.container-fluid{
+    background-color: #dee0d7;
+}
+
+
+.sections.container-fluid{
+    max-width: 941px;
+} 
+
+
+.carousel-inner img{
+    max-width: 100%;
+}
+
+.carousel-indicators{
+    display: none;
+}
+
+.right-control{
+    right: 0;
+    left: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding-top: 233px;
+}
+
+.right-control img{
+    width: 100%;
+    padding-right: 10px;
+}
+
+.left-control{
+    right: auto;
+    left: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding-top: 233px;
+}
+
+.left-control img{
+    width: 100%;
+    padding-left: 10px;
+}
+
+
+
+/* END CAROUSEL */
+
+#blue-bar img{
+    width: 100%;
+}
+
+/* WHO-WE-ARE SECTION */
+.who-we-are{
+    color: #1b4a67;
+    background-color: white;
+}
+.who-are{
+    background-color: white;
+    text-align: justify;
+    padding: 50px 70px 50px 70px;
+}
+
+.wh-re.container-fluid{
+    background-color: white;    
+}
+
+.wh-re-left .col-md-4{
+    padding-left: 0px;
+}
+
+.wh-re-right{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.wh-re{
+    width: 100%;
+}
+
+.wh-re h2{
+    color: #1b4a67;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+#who-we-are-imgPNG{
+    width:100%;
+    padding-top: 10px;
+}
+
+#whoWeAreButton{
+    color: #1b4a67;
+    font-family: 'Allerta';
+    border-radius: 0px;
+    border-color: #2c6cb7;
+}
+
+#articleNewsButton{
+    color: #1b4a67;
+    font-family: 'Allerta';
+    border-radius: 0px;
+    border-color: #2c6cb7;
+}
+
+
+
+.separator{
+    background-color: white;
+    text-align: center;
+}
+
+
+
+
+#leaderPic, #log-flag, #log-circles2{
+    max-width: 100%;
+}
+
+
+.contact-us{
+    background-image: url('fondo-contact_06.png');
+    color: white;
+
+}
+
+
+.left-control2 {
+    right: auto;
+    left: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding-top: 112px;
+}
+
+.right-control2 {
+    right: 0;
+    left: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding-top: 112px;
+}
+
+.news{
+    background-color: white;
+    padding: 30px 70px 30px 70px;
+
+}
+
+.news.row h2{
+    color: #1b4a67;
+    padding-bottom: 40px;
+}
+
+.news .thumbnail h3{
+    color: #1b4a67;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.news .thumbnail p{
+    color: #1b4a67;
+    font-size: 12px;
+/*    text-align: justify;*/
+}
+
+.carousel3inner{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+.img-log{
+    max-width: 37px;
+    padding-right: 10px;
+}
+
+.separator #log-flag{
+    width:100%;
+}
+
+
+.separator #log-circles{
+    padding: 30px 70px 30px 70px;
+}
+
+.separator #log-circles img{
+    width: 100%;
+}
+
+
+/* ////////////CONTACT US SECTION//////////////// */
+
+.contact-us{
+    padding: 30px 70px 30px 70px; 
+}
+.contact-cont{
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+
+.contact-cont, .footContact{
+    width: 100%;
+    float: left;
+    display: block;
+
+}
+
+.contact-us p, .contact-us img{
+    float: left;
+}
+
+.contact-us img{
+    padding-right: 1px;
+}
+
+.contactColumn1, .contactColumn, .contactColumn2{
+    display: block;
+    padding: 0 10px 0 10px;
+    float: left;
+}
+
+.contactColumn1{
+    width: 23%;
+}
+
+.contactColumn1 img{
+    max-width: 24px;
+}
+
+.contactColumn{
+    width: 16%;
+}
+
+.contactColumn2{
+    width: 30%;
+}
+
+.contactColumn2 img{
+    max-width: 20px;
+}
+
+#phoneIcon{
+    max-width: 23px;
+}
+
+#faxIcon{
+    max-width: 20px;
+}
+
+.contact-us p{
+    font-size: 10px;
+    margin-bottom: 0px;
+}
+
+.contact-us h2{
+    margin-bottom: 30px;
+}
+
+.contact-us h2 img{
+    padding-right: 10px;
+}
+
+.contact-us hr{
+    border-top: 1px solid #565151;
+}
+
+.footText{
+    color: grey;
+    padding: 50px 0px 50px 0px;
+    float: left;
+    display: block;
+}
+
+body > div {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+/*  LEADERSHIP PAGE */
+.leaderSection, .leaders{
+    background-color: white;
+}
+
+.photoLeadership img{
+    width:100%;
+}
+
+.leaders h3{
+    font-weight: bold;
+}
+
+.leaders h3, .leaders h4{
+    text-align: center;
+}
+
+#mary{
+    font-size: 12px;
+}
+
+.sections{
+    color: #1b4a67;
+}
+
+.whoWeAreFull{
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+#whoWeAreWrapp{
+    background-size: 86%;
+    background-image: url(leadership_03.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#leadershipTitle{
+    padding-left: 160px;
+    padding-bottom: 30px;
+}
+
+#whoWeAreTitle{
+    padding-bottom: 10px;
+    }
+
+
+/* **************************************************************************************/
+/*   RESPONSIVE */
+/*    ************************************************************************************* */
+
+
+@media only screen and (max-width: 986px) {
+
+    .nav>li>a {
+        font-size: 1.2vw;
+        margin-top: 20px;
+        padding: 3px 3px;
+    }
+    
+    .dropdown-menu>li>a {
+    font-size: 1.2vw;
+    }
+
+    
+    
+
+
+}
+
+@media only screen and (max-width: 428px) {
+
+    .contactColumn1, .contactColumn, .contactColumn2 {
+        width: 100%;
+    }
+    #navSec2{
+        padding-right: 0px; 
+        padding-left: 0px; 
+    }
+    
+    p{
+        font-size: 11px;
+    }
+
+}
+
+@media only screen and (max-width: 678px) {
+
+    .navbar-collapse a{
+        font-size: 12px;
+    }
+
+    .navbar-collapse .nav>li>a {
+        font-size: 12px;
+        margin-top: 5px;
+    }
+
+    #logoNavBar {
+        padding-right: 0px;
+    }
+
+
+    .news, .who-are, .contact-us {
+        padding: 30px; 
+    }
+
+    .footText{
+        padding: 0px;
+    }
+
+    .navig{
+        padding: 0px 30px 10px 30px;
+    }
+
+    .navbar-toggle {
+        margin-top: 40px;
+    }
+
+    .nav>li>a {
+        margin-top: 40px;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    .nav>li>a {
+        margin-top: 40px;
+    }
+    
+    .left-control2 img{
+       width: 80%;
+    }
+    
+    .right-control2 img{
+       width: 80%;
+    }
+
+    .footText {
+    padding: 50px 0px 0px 0px;
+
+    }
+    
+    .whoWeAreFull{
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+    
+    #leadershipTitle{
+    padding-left: 20px;
+    padding-bottom: 10px;
+    }
+    
+    #whoWeAreTitle{
+    padding-bottom: 10px;
+    }
+    
+    .contactColumn1, .contactColumn, .contactColumn2 {
+    width: 100%;
+    }
+    
+    #whoWeAreButton, #articleNewsButton{
+    font-size: 11px;
+    }
+}
+
+
